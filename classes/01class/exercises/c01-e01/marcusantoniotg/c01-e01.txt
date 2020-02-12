@@ -1,0 +1,2 @@
+Docker version 19.03.5, build 633a0ea
+Terraform v0.12.20
